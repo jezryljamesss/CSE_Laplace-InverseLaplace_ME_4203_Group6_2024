@@ -21,7 +21,7 @@ For Assignment 1 - II number 1, the answer in MATLAB and Manual Computation have
 ![image](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/160557061/2ae9f39a-9f09-467d-bd8b-0508b7c2f253)
 For Assignment 1 - II number 2, the answer in MATLAB and Manual Computation have the same answer.
 
-![Document 56_2](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/161010463/77d2740f-a97a-46aa-8574-e7527cfe4c33)
+![Document 56_12](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/161010463/cd70ae43-aa48-4bb1-b640-0416472b2677)
 ![429299757_1660053197863694_3842747245222417350_n](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/161010463/3a8c254e-e5a2-4682-9295-f30b3ebe6eb5)
 For Assignment 1 - II number 3, the answer in MATLAB and Manual Computation have the same answer.
 
