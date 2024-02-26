@@ -28,3 +28,11 @@ For Assignment 1 - II number 3, the answer in MATLAB and Manual Computation have
 ![Document 56_3](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/161010463/2011fd98-828f-4984-a5ff-b49b663c4435)
 ![429642119_688783860113942_6464536761574102043_n](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/161010463/0a3f5e41-1856-4e73-aa21-8da27a07f7c3)
 For Assignment 2 number 1, the answer in MATLAB and Manual Computation have the same answer.
+
+![11](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/161361767/7937268f-ae80-4e74-8548-1c837d9e8eb5)
+![5](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/161361767/ce44b477-1333-4ccc-b9f3-2734a2f63924)
+For Assignment 2, number 2, the answer in MATLAB and Manual Computation have the same answer.
+
+![2](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/161361767/212127e1-6f74-4a89-b198-8040f08b31ae)
+![image](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/161361767/4a061a0f-a92d-47f6-a8a6-ca707f0cc68d)
+For Assignment 2, number 3, the answer in MATLAB and Manual Computation have the same answer.
