@@ -1,3 +1,5 @@
+%% LAGAYA, ROD JOSHUA B.  ME 4203 
+
 %Clear
 clear
 clc
