@@ -12,7 +12,7 @@ For Assignment 1 - I number 2, the answer in MATLAB and Manual Computation have 
 ![image](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/160556975/409a2d6e-100c-4eda-af39-bca40f35c7ac)
 For Assignment 1 - I number 3, the answer in MATLAB and Manual Computation have the same answer.
 
-![image](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/160557061/33c53807-30d6-438d-904a-15d8ba3580b5)
+![image](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/160557061/29f106dd-ad59-4412-815a-dd671d8fcb79)
 ![image](https://github.com/Vincent-Alcantara/CSE_Laplace-InverseLaplace_ME_4203_Group6_2024/assets/160557061/dc77a37b-7974-4e75-ad32-615623ec4aca)
 
 For Assignment 1 - II number 1, the answer in MATLAB and Manual Computation have the same answer.
