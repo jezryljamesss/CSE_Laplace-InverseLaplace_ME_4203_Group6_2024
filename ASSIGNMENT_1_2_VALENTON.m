@@ -1,3 +1,5 @@
+%%VALENTON, JEZRYL JAMES F.      ME 4203
+
 %Clear
 clear
 clc
