@@ -1,3 +1,5 @@
+%% ALCANTARA, VINCENT L.    ME 4203
+
 %Clear
 clear
 clc
